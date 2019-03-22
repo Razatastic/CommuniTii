@@ -1,4 +1,6 @@
 # CommuniTii
+###### Winner of the 2019 CUNY Hackathon! 🏆
+[Presentation](https://docs.google.com/presentation/d/16eJTBsVmZdMHJJguk9gx2YX0HiETtyadsiMUyb7c2ik/edit?usp=sharing)
 
 ### What is CommuniTii?
 #### The Problem
@@ -20,6 +22,9 @@
 - Implementing privacy safeguards (e.g. - Using QR codes)
 
 ### Key Components
+![Quest Page Screen](https://i.imgur.com/Rp315js.png)
+![Chat Page Screen](https://i.imgur.com/Fq3FnVJ.png)
+![Profile Page Screen](https://i.imgur.com/OMnMf6z.png)
 
 
 ## Development
