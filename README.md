@@ -18,13 +18,16 @@ All of this while keeping your data secure through implementing new and improved
 ### Key Components
 #### Quest
 The user is greeted with this screen that's populated with recommended activities they might be interested in.
+
 ![Quest Page Screen](https://i.imgur.com/Rp315js.png)
 
 #### Chat
 A list of open chats with other users.
+
 ![Chat Page Screen](https://i.imgur.com/Fq3FnVJ.png)
 #### Profile
 Information regarding the current user. Includes badges earned and a history of previous activities, also known as quests.
+
 ![Profile Page Screen](https://i.imgur.com/OMnMf6z.png)
 
 
