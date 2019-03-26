@@ -1,5 +1,5 @@
 # CommuniTii
-###### Winner of the 2019 CUNY Hackathon! 🏆
+###### Winner of the 2018 CUNY Hackathon! 🏆
 [Presentation](https://docs.google.com/presentation/d/16eJTBsVmZdMHJJguk9gx2YX0HiETtyadsiMUyb7c2ik/edit?usp=sharing)
 
 ### What is CommuniTii?
